@@ -1,2 +1,2 @@
 # EVI
-OCPP1.6 Charger Simulation
+OCPP1.6 Charge Point Simulator
